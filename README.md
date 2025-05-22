@@ -43,17 +43,3 @@
 <img src="https://raw.githubusercontent.com/shoffice/shoffice/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://instagram.com/shofiyass" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="45" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shofiya-yasmin-husna-a6b37224b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@shofiyasminh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="59" height="45" alt="youtube logo"  />
-  </a>
-</div>
-
-###
