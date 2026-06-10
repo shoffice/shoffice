@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Shofi! 👋🏻</h1>
+<!-- <h1 align="center">Hi! I'm Shofi! 👋🏻</h1>
 
 ###
 
@@ -42,4 +42,4 @@
 
 <img src="https://raw.githubusercontent.com/shoffice/shoffice/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
