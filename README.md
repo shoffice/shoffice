@@ -1,45 +1,28 @@
-<!-- <h1 align="center">Hi! I'm Shofi! 👋🏻</h1>
+# Hi, I'm Shofi!
 
-###
+**Software Developer | Information Systems | Web Application Development**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoffice&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=rose_pine&hide_border=true" height="200" alt="languages graph"  />
-</div>
+Fresh graduate in Smart City Information Systems with an interest in software development and digital solutions.
 
-###
+I have experience developing web applications through internship, freelance work, and academic projects. My work includes implementing application features, designing databases, and translating requirements into system workflows.
 
-<br clear="both">
+### Tech Stack
 
-<img align="left" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlqcHByNGN1bjVqbTRmdzgxMnE4NmEzaDBrejgzZjI4cmR0aTVleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qd641DVFl2CLC/giphy.gif"  />
+**Languages & Frameworks**
 
-###
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+**Database & Tools**
 
-###
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shoffice/shoffice/output/snake.svg" alt="Snake animation" />
-
-### -->
+### Let's Connect!
+- **Portfolio:** https://shoffice.my.id
+- **LinkedIn:** https://www.linkedin.com/in/shofiyasminhusna/
